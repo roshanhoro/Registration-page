@@ -1,0 +1,10 @@
+.hello {
+  display: flex;
+  text-align: center;
+}
+.table {
+  border: 2px solid black;
+}
+.f {
+  border: 1px solid black;
+}

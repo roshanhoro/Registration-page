@@ -1,0 +1,57 @@
+.App {
+  text-align: left;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border: 3px solid blue;
+  width: 40%;
+  height: 5%;
+  padding-bottom: 20px;
+  padding: 10px;
+  margin: auto;
+}
+
+sup {
+  color: red;
+}
+
+small {
+  color: red;
+}
+
+.buttonGroup {
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+}
+
+.submit {
+  background-color: aquamarine;
+}
+
+.reset {
+  background-color: yellow;
+}
+
+.row {
+  margin: 10px;
+  text-align: left;
+}
+.h1 {
+  text-align: center;
+}
+
+.mode {
+  border-color: darkorchid;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}

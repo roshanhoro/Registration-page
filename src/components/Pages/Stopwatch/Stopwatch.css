@@ -1,0 +1,38 @@
+.head {
+  color: black;
+  text-align: center;
+  margin: 2px;
+  padding: 2px;
+}
+.cap {
+  background-image: url("https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg");
+  height: 800px;
+  width: 100%;
+  background-size: cover;
+
+  background-repeat: no-repeat;
+}
+.time {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  border: 2px solid black;
+  margin: auto;
+  height: 70px;
+  width: 200px;
+  background-color: white;
+  border-radius: 200px;
+}
+.bton {
+  text-align: center;
+  background-color: none;
+}
+button {
+  text-align: center;
+  color: black;
+  background-color: aqua;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  cursor: pointer;
+  border-radius: 10px;
+}

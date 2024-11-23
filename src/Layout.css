@@ -1,0 +1,50 @@
+.main-container {
+  /* background-color: aquamarine; */
+  border: 4px solid blueviolet;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: cadetblue;
+  color: black;
+  font-size: 20px;
+}
+
+.header {
+  color: rgb(0, 0, 12);
+  text-align: center;
+  block-size: auto;
+  border: 2px solid red;
+  background-color: bisque;
+  font-size: 20px;
+}
+
+.section {
+  display: flex;
+  height: 100vh;
+}
+
+.sideNav {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 30px;
+  display: flex;
+  border: 2px solid red;
+  flex-direction: column;
+  flex: 2;
+  background-color: cornflowerblue;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 9;
+  height: 80vh;
+  margin: auto;
+}
+.box {
+  padding-left: 2px;
+  border: 2px solid black;
+  cursor: pointer;
+}
+.active {
+  background-color: aquamarine;
+  color: blueviolet;
+}

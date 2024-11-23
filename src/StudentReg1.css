@@ -1,0 +1,62 @@
+.container1 {
+  display: flex;
+  flex-direction: column;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  top: 20%;
+  margin: 0px auto;
+}
+.header1 {
+  text-align: center;
+  flex-direction: column;
+  margin: auto;
+  border: 4px solid black;
+}
+sup {
+  color: red;
+}
+
+small {
+  color: red;
+}
+
+.buttonGroup {
+  margin-top: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+}
+
+.submit {
+  background-color: aquamarine;
+}
+
+.reset {
+  background-color: yellow;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  text-align: center;
+}
+.h1 {
+  text-align: center;
+}
+
+.mode {
+  border-color: darkorchid;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
+.light-mode {
+  background-color: white;
+  color: black;
+}

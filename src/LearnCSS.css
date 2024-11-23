@@ -1,0 +1,17 @@
+.containerL {
+  height: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.Box {
+  border: 1px solid green;
+  height: 50px;
+  width: 50px;
+  background-color: aqua;
+}
+.learn {
+  text-align: center;
+}
